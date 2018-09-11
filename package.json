@@ -1,5 +1,5 @@
 {
-    "name": "2captcha",
+    "name": "azcaptcha",
     "version": "1.0.11",
     "description": "A wrapper for the AZcaptcha API",
     "main": "index.js",
