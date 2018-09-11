@@ -1,4 +1,4 @@
-# 2Captcha API wrapper for Node.js
+# AZcaptcha API wrapper for Node.js
 
 Post a captcha to the [azcaptcha](https://azcaptcha.com/) service, then polls until the captcha is decoded.
 
