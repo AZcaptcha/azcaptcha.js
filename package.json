@@ -1,7 +1,7 @@
 {
     "name": "2captcha",
     "version": "1.0.11",
-    "description": "A wrapper for the 2Captcha API",
+    "description": "A wrapper for the AZcaptcha API",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,10 @@
     "keywords": [
         "captcha"
     ],
-    "author": "Sander Kastelein",
+    "author": "ThomanPhan",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Sander-Kastelein/2captcha.git"
+        "url": "https://github.com/Thomanphan/azcaptcha.git"
     }
 }
