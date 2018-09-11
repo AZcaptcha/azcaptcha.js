@@ -1,10 +1,10 @@
 # 2Captcha API wrapper for Node.js
 
-Post a captcha to the [2Captcha](https://2captcha.com/) service, then polls until the captcha is decoded.
+Post a captcha to the [azcaptcha](https://azcaptcha.com/) service, then polls until the captcha is decoded.
 
 ## Installation
 
-    npm install 2captcha
+    npm install azcaptcha
 
 
 ## Usage
@@ -12,7 +12,7 @@ Post a captcha to the [2Captcha](https://2captcha.com/) service, then polls unti
 
 Set up your api key:
 
-    var solver = require('2captcha');
+    var solver = require('azcaptcha');
 
     solver.setApiKey('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
